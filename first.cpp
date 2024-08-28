@@ -9,9 +9,5 @@ int sqare(int num)
 
 int main()
 {
-    int num;
-    cout<<" Input number: ";
-    cin>>num;
-    cout<<" Sqaure of "<<num <<" is "<<sqare(num)<<endl;
     return 0;
 }
